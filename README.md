@@ -1,5 +1,5 @@
 # adb-ndk with prompt & local
-Make adb environment on android(ndk).
+Makes adb environment on android(ndk) and allows run adb on locally.
 
 ADB binary by adb-ndk magisk module made by osm0sis & Surge1223.
 
