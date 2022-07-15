@@ -1,0 +1,1584 @@
+--- adb starting (pid 2344) ---
+adb I 07-08 18:30:36  2344  2344 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 18:30:36  2344  2344 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 18:30:36  2344  2344 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb.bin
+adb I 07-08 18:30:36  2344  2344 main.cpp:62] 
+adb I 07-08 18:30:36  2344  2344 auth.cpp:415] adb_auth_init...
+adb I 07-08 18:30:36  2344  2344 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 18:30:36  2344  2344 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 3472) ---
+adb I 07-08 18:32:37  3472  3472 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 18:32:37  3472  3472 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 18:32:37  3472  3472 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb.bin
+adb I 07-08 18:32:37  3472  3472 main.cpp:62] 
+adb I 07-08 18:32:37  3472  3472 auth.cpp:415] adb_auth_init...
+adb I 07-08 18:32:37  3472  3472 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 18:32:37  3472  3472 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 18:32:37  3472  3487 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 18:32:37  3472  3488 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 18:32:37  3472  3472 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 18:32:37  3472  3472 auth.cpp:467] Calling send_auth_response
+adb I 07-08 18:32:37  3472  3472 adb.cpp:122] localhost:1111: offline
+adb I 07-08 18:35:24  3472  3487 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 18:35:24  3472  3487 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 18:35:24  3472  3472 adb.cpp:122] localhost:1111: offline
+adb I 07-08 18:35:24  3472  3472 transport.cpp:914] destroying transport localhost:1111
+adb I 07-08 18:35:24  3472  3472 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 18:35:24  3472  3472 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+adb I 07-08 18:35:24  3472  3473 transport.cpp:279] BlockingConnectionAdapter(localhost:1111): destructing
+adb I 07-08 18:35:24  3472  3473 transport.cpp:388] BlockingConnectionAdapter(localhost:1111): already stopped
+adb I 07-08 18:35:24  3472  6291 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 18:35:24  3472  6292 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 18:35:24  3472  3472 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 18:35:24  3472  3472 auth.cpp:467] Calling send_auth_response
+adb I 07-08 18:35:24  3472  3472 adb.cpp:122] localhost:1111: offline
+adb I 07-08 18:35:58  3472  6291 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 18:35:58  3472  6291 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 18:35:58  3472  3472 adb.cpp:122] localhost:1111: offline
+adb I 07-08 18:35:58  3472  3472 transport.cpp:914] destroying transport localhost:1111
+adb I 07-08 18:35:58  3472  3472 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 18:35:58  3472  3472 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+adb server killed by remote request
+adb I 07-08 18:35:58  3472  3472 transport.cpp:1106] kicking transport 0xe8f83a80 localhost:1111
+adb I 07-08 18:35:58  3472  3472 transport.cpp:388] BlockingConnectionAdapter(localhost:1111): already stopped
+--- adb starting (pid 4323) ---
+adb I 07-08 20:10:33  4323  4323 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 20:10:33  4323  4323 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 20:10:33  4323  4323 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb.bin
+adb I 07-08 20:10:33  4323  4323 main.cpp:62] 
+adb I 07-08 20:10:33  4323  4323 auth.cpp:415] adb_auth_init...
+adb I 07-08 20:10:33  4323  4323 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 20:10:33  4323  4323 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 20:10:33  4323  4367 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 20:10:33  4323  4368 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 20:10:33  4323  4323 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 20:10:33  4323  4323 auth.cpp:467] Calling send_auth_response
+adb I 07-08 20:10:33  4323  4323 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-08 21:18:52  4323  4323 transport.cpp:1106] kicking transport 0xf1d80120 localhost:1111
+adb I 07-08 21:18:52  4323  4323 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 21:18:52  4323  4367 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 21:18:52  4323  4367 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 21:18:52  4323  4323 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 8567) ---
+adb I 07-08 21:33:05  8567  8567 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 21:33:05  8567  8567 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 21:33:05  8567  8567 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb.bin
+adb I 07-08 21:33:05  8567  8567 main.cpp:62] 
+adb I 07-08 21:33:05  8567  8567 auth.cpp:415] adb_auth_init...
+adb I 07-08 21:33:05  8567  8567 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 21:33:05  8567  8567 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 21:33:06  8567  8600 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 21:33:06  8567  8602 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 21:33:06  8567  8567 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 21:33:06  8567  8567 auth.cpp:467] Calling send_auth_response
+adb I 07-08 21:33:06  8567  8567 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-08 21:57:18  8567  8567 transport.cpp:1106] kicking transport 0xe6f81110 localhost:1111
+adb I 07-08 21:57:18  8567  8567 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 21:57:18  8567  8600 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 21:57:18  8567  8600 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 21:57:18  8567  8567 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 20920) ---
+adb I 07-08 21:59:41 20920 20920 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 21:59:41 20920 20920 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 21:59:41 20920 20920 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 21:59:41 20920 20920 main.cpp:62] 
+adb I 07-08 21:59:41 20920 20920 auth.cpp:415] adb_auth_init...
+adb I 07-08 21:59:41 20920 20920 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 21:59:41 20920 20920 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 21:59:41 20920 20944 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 21:59:41 20920 20945 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 21:59:41 20920 20920 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 21:59:41 20920 20920 auth.cpp:467] Calling send_auth_response
+adb I 07-08 21:59:41 20920 20920 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-08 22:00:27 20920 20920 transport.cpp:1106] kicking transport 0xf3503860 localhost:1111
+adb I 07-08 22:00:27 20920 20920 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 22:00:27 20920 20944 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 22:00:27 20920 20944 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 22:00:27 20920 20920 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 26336) ---
+adb I 07-08 22:06:48 26336 26336 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 22:06:48 26336 26336 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 22:06:48 26336 26336 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 22:06:48 26336 26336 main.cpp:62] 
+adb I 07-08 22:06:48 26336 26336 auth.cpp:415] adb_auth_init...
+adb I 07-08 22:06:48 26336 26336 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 22:06:48 26336 26336 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 22:06:48 26336 26363 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 22:06:48 26336 26364 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 22:06:48 26336 26336 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 22:06:48 26336 26336 auth.cpp:467] Calling send_auth_response
+adb I 07-08 22:06:48 26336 26336 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-08 23:20:22 26336 26336 transport.cpp:1106] kicking transport 0xe8642ba0 localhost:1111
+adb I 07-08 23:20:22 26336 26336 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 23:20:22 26336 26363 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 23:20:22 26336 26363 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 23:20:22 26336 26336 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 29856) ---
+adb I 07-08 23:20:25 29856 29856 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:20:25 29856 29856 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:20:25 29856 29856 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:20:25 29856 29856 main.cpp:62] 
+adb I 07-08 23:20:25 29856 29856 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:20:25 29856 29856 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:20:25 29856 29856 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 23:20:26 29856 29878 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 23:20:26 29856 29877 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 23:20:26 29856 29856 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 23:20:26 29856 29856 auth.cpp:467] Calling send_auth_response
+adb I 07-08 23:20:26 29856 29856 adb.cpp:122] localhost:1111: offline
+adb I 07-08 23:24:05 29856 29877 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 23:24:05 29856 29877 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 23:24:05 29856 29856 adb.cpp:122] localhost:1111: offline
+adb I 07-08 23:24:05 29856 29856 transport.cpp:914] destroying transport localhost:1111
+adb I 07-08 23:24:05 29856 29856 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 23:24:05 29856 29856 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+adb I 07-08 23:24:05 29856 29858 transport.cpp:279] BlockingConnectionAdapter(localhost:1111): destructing
+adb I 07-08 23:24:05 29856 29858 transport.cpp:388] BlockingConnectionAdapter(localhost:1111): already stopped
+adb I 07-08 23:24:05 29856   599 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 23:24:05 29856   600 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 23:24:05 29856 29856 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 23:24:05 29856 29856 auth.cpp:467] Calling send_auth_response
+adb I 07-08 23:24:05 29856 29856 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-08 23:25:12 29856 29856 transport.cpp:1106] kicking transport 0xecb430f0 localhost:1111
+adb I 07-08 23:25:12 29856 29856 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 23:25:12 29856   599 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 23:25:12 29856   599 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 23:25:12 29856 29856 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 4542) ---
+adb I 07-08 23:33:19  4542  4542 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:33:19  4542  4542 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:33:19  4542  4542 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:33:19  4542  4542 main.cpp:62] 
+adb I 07-08 23:33:19  4542  4542 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:33:19  4542  4542 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:33:19  4542  4542 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 4573) ---
+adb I 07-08 23:33:37  4573  4573 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:33:37  4573  4573 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:33:37  4573  4573 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:33:37  4573  4573 main.cpp:62] 
+adb I 07-08 23:33:37  4573  4573 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:33:37  4573  4573 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:33:37  4573  4573 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 4666) ---
+adb I 07-08 23:33:41  4666  4666 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:33:41  4666  4666 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:33:41  4666  4666 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:33:41  4666  4666 main.cpp:62] 
+adb I 07-08 23:33:41  4666  4666 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:33:41  4666  4666 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:33:41  4666  4666 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 23:33:41  4666  4718 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 23:33:41  4666  4735 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 23:33:41  4666  4666 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 23:33:41  4666  4666 auth.cpp:467] Calling send_auth_response
+adb I 07-08 23:33:42  4666  4666 adb.cpp:122] localhost:1111: offline
+adb I 07-08 23:33:55  4666  4718 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 23:33:55  4666  4718 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 23:33:55  4666  4666 adb.cpp:122] localhost:1111: offline
+adb I 07-08 23:33:55  4666  4666 transport.cpp:914] destroying transport localhost:1111
+adb I 07-08 23:33:55  4666  4666 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 23:33:55  4666  4666 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+adb server killed by remote request
+adb I 07-08 23:33:56  4666  4666 transport.cpp:1106] kicking transport 0xee202430 localhost:1111
+adb I 07-08 23:33:56  4666  4666 transport.cpp:388] BlockingConnectionAdapter(localhost:1111): already stopped
+--- adb starting (pid 4917) ---
+adb I 07-08 23:33:56  4917  4917 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:33:56  4917  4917 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:33:56  4917  4917 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:33:56  4917  4917 main.cpp:62] 
+adb I 07-08 23:33:56  4917  4917 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:33:56  4917  4917 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:33:56  4917  4917 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 23:33:56  4917  4932 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 23:33:56  4917  4933 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 23:33:56  4917  4917 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 23:33:56  4917  4917 auth.cpp:467] Calling send_auth_response
+adb I 07-08 23:33:56  4917  4917 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-08 23:40:41  4917  4917 transport.cpp:1106] kicking transport 0xeec82870 localhost:1111
+adb I 07-08 23:40:41  4917  4917 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 23:40:41  4917  4932 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 23:40:41  4917  4932 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 23:40:41  4917  4917 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 10654) ---
+adb I 07-08 23:40:45 10654 10654 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:40:45 10654 10654 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:40:45 10654 10654 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:40:45 10654 10654 main.cpp:62] 
+adb I 07-08 23:40:45 10654 10654 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:40:45 10654 10654 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:40:45 10654 10654 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 23:40:45 10654 10678 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 23:40:45 10654 10677 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 23:40:45 10654 10654 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 23:40:45 10654 10654 auth.cpp:467] Calling send_auth_response
+adb I 07-08 23:40:45 10654 10654 adb.cpp:122] localhost:1111: offline
+adb I 07-08 23:43:12 10654 10677 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 23:43:12 10654 10677 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 23:43:12 10654 10654 adb.cpp:122] localhost:1111: offline
+adb I 07-08 23:43:12 10654 10654 transport.cpp:914] destroying transport localhost:1111
+adb I 07-08 23:43:12 10654 10654 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 23:43:12 10654 10654 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+adb I 07-08 23:43:12 10654 10656 transport.cpp:279] BlockingConnectionAdapter(localhost:1111): destructing
+adb server killed by remote request
+adb I 07-08 23:43:12 10654 10656 transport.cpp:388] BlockingConnectionAdapter(localhost:1111): already stopped
+adb I 07-08 23:43:12 10654 10654 transport.cpp:1106] kicking transport 0xf0b01ee0 localhost:1111
+adb I 07-08 23:43:12 10654 10654 transport.cpp:383] BlockingConnectionAdapter(): not started
+--- adb starting (pid 11363) ---
+adb I 07-08 23:43:13 11363 11363 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:43:13 11363 11363 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:43:13 11363 11363 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:43:13 11363 11363 main.cpp:62] 
+adb I 07-08 23:43:13 11363 11363 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:43:13 11363 11363 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:43:13 11363 11363 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 23:43:13 11363 11378 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 23:43:13 11363 11379 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 23:43:13 11363 11363 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 23:43:13 11363 11363 auth.cpp:467] Calling send_auth_response
+adb I 07-08 23:43:13 11363 11363 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-08 23:43:27 11363 11363 transport.cpp:1106] kicking transport 0xf2f41aa0 localhost:1111
+adb I 07-08 23:43:27 11363 11363 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-08 23:43:27 11363 11378 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-08 23:43:27 11363 11378 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-08 23:43:27 11363 11363 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 15401) ---
+adb I 07-08 23:48:26 15401 15401 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:48:26 15401 15401 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:48:26 15401 15401 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:48:26 15401 15401 main.cpp:62] 
+adb I 07-08 23:48:26 15401 15401 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:48:26 15401 15401 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:48:26 15401 15401 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 15596) ---
+adb I 07-08 23:48:35 15596 15596 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-08 23:48:35 15596 15596 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-08 23:48:35 15596 15596 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-08 23:48:35 15596 15596 main.cpp:62] 
+adb I 07-08 23:48:35 15596 15596 auth.cpp:415] adb_auth_init...
+adb I 07-08 23:48:35 15596 15596 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-08 23:48:35 15596 15596 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-08 23:48:35 15596 15612 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-08 23:48:35 15596 15613 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-08 23:48:35 15596 15596 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-08 23:48:35 15596 15596 auth.cpp:467] Calling send_auth_response
+adb I 07-08 23:48:35 15596 15596 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-09 00:00:33 15596 15596 transport.cpp:1106] kicking transport 0xf4d42430 localhost:1111
+adb I 07-09 00:00:33 15596 15596 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-09 00:00:33 15596 15612 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-09 00:00:33 15596 15612 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-09 00:00:33 15596 15596 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 19658) ---
+adb I 07-09 00:00:37 19658 19658 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:00:37 19658 19658 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:00:37 19658 19658 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:00:37 19658 19658 main.cpp:62] 
+adb I 07-09 00:00:37 19658 19658 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:00:37 19658 19658 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:00:37 19658 19658 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:00:37 19658 19683 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-09 00:00:37 19658 19684 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-09 00:00:37 19658 19658 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-09 00:00:37 19658 19658 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:00:37 19658 19658 adb.cpp:122] localhost:1111: offline
+adb I 07-09 00:00:45 19658 19683 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-09 00:00:45 19658 19683 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-09 00:00:45 19658 19658 adb.cpp:122] localhost:1111: offline
+adb I 07-09 00:00:45 19658 19658 transport.cpp:914] destroying transport localhost:1111
+adb I 07-09 00:00:45 19658 19658 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-09 00:00:45 19658 19658 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+adb server killed by remote request
+adb I 07-09 00:00:45 19658 19658 transport.cpp:1106] kicking transport 0xf3a82320 localhost:1111
+adb I 07-09 00:00:45 19658 19658 transport.cpp:388] BlockingConnectionAdapter(localhost:1111): already stopped
+--- adb starting (pid 19960) ---
+adb I 07-09 00:00:45 19960 19960 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:00:45 19960 19960 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:00:45 19960 19960 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:00:45 19960 19960 main.cpp:62] 
+adb I 07-09 00:00:45 19960 19960 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:00:45 19960 19960 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:00:45 19960 19960 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:00:46 19960 19975 transport.cpp:321] localhost:1111: read thread spawning
+adb I 07-09 00:00:46 19960 19976 transport.cpp:293] localhost:1111: write thread spawning
+adb I 07-09 00:00:46 19960 19960 transport.cpp:1518] fetching keys for transport localhost:1111
+adb I 07-09 00:00:46 19960 19960 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:00:46 19960 19960 adb.cpp:122] localhost:1111: offline
+adb server killed by remote request
+adb I 07-09 00:02:00 19960 19960 transport.cpp:1106] kicking transport 0xeb041110 localhost:1111
+adb I 07-09 00:02:00 19960 19960 transport.cpp:396] BlockingConnectionAdapter(localhost:1111): stopping
+adb I 07-09 00:02:00 19960 19975 transport.cpp:325] localhost:1111: read failed: Success
+adb I 07-09 00:02:00 19960 19975 transport.cpp:810] localhost:1111: connection terminated: read failed
+adb I 07-09 00:02:00 19960 19960 transport.cpp:414] BlockingConnectionAdapter(localhost:1111): stopped
+--- adb starting (pid 20569) ---
+adb I 07-09 00:02:03 20569 20569 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:02:03 20569 20569 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:02:03 20569 20569 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:02:03 20569 20569 main.cpp:62] 
+adb I 07-09 00:02:03 20569 20569 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:02:03 20569 20569 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:02:03 20569 20569 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:02:04 20569 20586 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:02:04 20569 20587 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:02:04 20569 20569 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:02:04 20569 20569 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:02:04 20569 20569 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:02:32 20569 20569 transport.cpp:1106] kicking transport 0xf0e80cd0 localhost:5038
+adb I 07-09 00:02:32 20569 20569 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:02:32 20569 20586 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:02:32 20569 20586 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:02:32 20569 20569 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 25159) ---
+adb I 07-09 00:05:32 25159 25159 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:05:32 25159 25159 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:05:32 25159 25159 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:05:32 25159 25159 main.cpp:62] 
+adb I 07-09 00:05:32 25159 25159 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:05:32 25159 25159 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:05:32 25159 25159 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:05:32 25159 25175 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:05:32 25159 25174 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:05:32 25159 25159 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:05:32 25159 25159 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:05:32 25159 25159 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:09:42 25159 25159 transport.cpp:1106] kicking transport 0xee1c2540 localhost:5038
+adb I 07-09 00:09:42 25159 25159 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:09:42 25159 25174 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:09:42 25159 25174 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:09:42 25159 25159 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 27330) ---
+adb I 07-09 00:09:52 27330 27330 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:09:52 27330 27330 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:09:52 27330 27330 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:09:52 27330 27330 main.cpp:62] 
+adb I 07-09 00:09:52 27330 27330 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:09:52 27330 27330 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:09:52 27330 27330 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:09:53 27330 27347 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:09:53 27330 27346 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:09:53 27330 27330 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:09:53 27330 27330 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:09:53 27330 27330 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:10:14 27330 27330 transport.cpp:1106] kicking transport 0xf4281000 localhost:5038
+adb I 07-09 00:10:14 27330 27330 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:10:14 27330 27346 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:10:14 27330 27346 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:10:14 27330 27330 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 27817) ---
+adb I 07-09 00:10:22 27817 27817 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:10:22 27817 27817 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:10:22 27817 27817 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:10:22 27817 27817 main.cpp:62] 
+adb I 07-09 00:10:22 27817 27817 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:10:22 27817 27817 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:10:22 27817 27817 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:10:22 27817 27832 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:10:22 27817 27833 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:10:22 27817 27817 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:10:22 27817 27817 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:10:22 27817 27817 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:11:07 27817 27817 transport.cpp:1106] kicking transport 0xf5281330 localhost:5038
+adb I 07-09 00:11:07 27817 27817 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:11:07 27817 27832 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:11:07 27817 27832 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:11:07 27817 27817 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 28530) ---
+adb I 07-09 00:11:11 28530 28530 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:11:11 28530 28530 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:11:11 28530 28530 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:11:11 28530 28530 main.cpp:62] 
+adb I 07-09 00:11:11 28530 28530 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:11:11 28530 28530 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:11:11 28530 28530 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 28872) ---
+adb I 07-09 00:11:20 28872 28872 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:11:20 28872 28872 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:11:20 28872 28872 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:11:20 28872 28872 main.cpp:62] 
+adb I 07-09 00:11:20 28872 28872 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:11:20 28872 28872 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:11:20 28872 28872 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:11:20 28872 28887 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:11:20 28872 28888 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:11:20 28872 28872 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:11:20 28872 28872 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:11:20 28872 28872 adb.cpp:122] localhost:5038: offline
+adb I 07-09 00:11:23 28872 28887 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:11:23 28872 28887 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:11:23 28872 28872 adb.cpp:122] localhost:5038: offline
+adb I 07-09 00:11:23 28872 28872 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 00:11:23 28872 28872 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:11:23 28872 28872 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 00:11:23 28872 28872 transport.cpp:1106] kicking transport 0xeba01330 localhost:5038
+adb I 07-09 00:11:23 28872 28872 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 28980) ---
+adb I 07-09 00:11:23 28980 28980 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:11:23 28980 28980 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:11:23 28980 28980 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:11:23 28980 28980 main.cpp:62] 
+adb I 07-09 00:11:23 28980 28980 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:11:23 28980 28980 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:11:23 28980 28980 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:11:23 28980 28995 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:11:23 28980 28996 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:11:23 28980 28980 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:11:23 28980 28980 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:11:23 28980 28980 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:12:20 28980 28980 transport.cpp:1106] kicking transport 0xf0642430 localhost:5038
+adb I 07-09 00:12:20 28980 28980 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:12:20 28980 28995 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:12:20 28980 28995 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:12:20 28980 28980 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 29533) ---
+adb I 07-09 00:12:22 29533 29533 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:12:22 29533 29533 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:12:22 29533 29533 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:12:22 29533 29533 main.cpp:62] 
+adb I 07-09 00:12:22 29533 29533 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:12:22 29533 29533 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:12:22 29533 29533 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:12:22 29533 29548 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:12:22 29533 29549 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:12:22 29533 29533 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:12:22 29533 29533 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:12:22 29533 29533 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:15:00 29533 29533 transport.cpp:1106] kicking transport 0xefd430f0 localhost:5038
+adb I 07-09 00:15:00 29533 29533 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:15:00 29533 29548 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:15:00 29533 29548 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:15:00 29533 29533 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 30489) ---
+adb I 07-09 00:15:02 30489 30489 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:15:02 30489 30489 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:15:02 30489 30489 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:15:02 30489 30489 main.cpp:62] 
+adb I 07-09 00:15:02 30489 30489 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:15:02 30489 30489 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:15:02 30489 30489 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 30619) ---
+adb I 07-09 00:15:20 30619 30619 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:15:20 30619 30619 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:15:20 30619 30619 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:15:20 30619 30619 main.cpp:62] 
+adb I 07-09 00:15:20 30619 30619 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:15:20 30619 30619 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:15:20 30619 30619 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:15:20 30619 30635 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:15:20 30619 30636 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:15:20 30619 30619 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:15:20 30619 30619 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:15:20 30619 30619 adb.cpp:122] localhost:5038: offline
+adb I 07-09 00:16:06 30619 30635 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:16:06 30619 30635 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:16:06 30619 30619 adb.cpp:122] localhost:5038: offline
+adb I 07-09 00:16:06 30619 30619 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 00:16:06 30619 30619 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:16:06 30619 30619 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 00:16:07 30619 30619 transport.cpp:1106] kicking transport 0xe7703530 localhost:5038
+adb I 07-09 00:16:07 30619 30619 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 30832) ---
+adb I 07-09 00:16:07 30832 30832 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:16:07 30832 30832 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:16:07 30832 30832 main.cpp:62] Installed as /data/local/tmp/adb/bin/adb
+adb I 07-09 00:16:07 30832 30832 main.cpp:62] 
+adb I 07-09 00:16:07 30832 30832 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:16:07 30832 30832 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:16:07 30832 30832 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:16:07 30832 30847 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:16:07 30832 30848 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:16:07 30832 30832 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:16:07 30832 30832 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:16:07 30832 30832 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:19:19 30832 30832 transport.cpp:1106] kicking transport 0xedb00cd0 localhost:5038
+adb I 07-09 00:19:19 30832 30832 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:19:19 30832 30847 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:19:19 30832 30847 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:19:19 30832 30832 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 2170) ---
+adb I 07-09 00:22:55  2170  2170 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:22:55  2170  2170 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:22:55  2170  2170 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 00:22:55  2170  2170 main.cpp:62] 
+adb I 07-09 00:22:55  2170  2170 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:22:55  2170  2170 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:22:55  2170  2170 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 00:22:56  2170  2186 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 00:22:56  2170  2185 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 00:22:56  2170  2170 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 00:22:56  2170  2170 auth.cpp:467] Calling send_auth_response
+adb I 07-09 00:22:56  2170  2170 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 00:26:09  2170  2170 transport.cpp:1106] kicking transport 0xf3f82540 localhost:5038
+adb I 07-09 00:26:09  2170  2170 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 00:26:09  2170  2185 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 00:26:09  2170  2185 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 00:26:09  2170  2170 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 5919) ---
+adb I 07-09 00:26:12  5919  5919 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 00:26:12  5919  5919 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 00:26:12  5919  5919 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 00:26:12  5919  5919 main.cpp:62] 
+adb I 07-09 00:26:12  5919  5919 auth.cpp:415] adb_auth_init...
+adb I 07-09 00:26:12  5919  5919 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 00:26:12  5919  5919 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 13112) ---
+adb I 07-09 03:36:02 13112 13112 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 03:36:02 13112 13112 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 03:36:02 13112 13112 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 03:36:02 13112 13112 main.cpp:62] 
+adb I 07-09 03:36:02 13112 13112 auth.cpp:415] adb_auth_init...
+adb I 07-09 03:36:02 13112 13112 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 03:36:02 13112 13112 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 03:36:02 13112 13131 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 03:36:02 13112 13130 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 03:36:02 13112 13112 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 03:36:02 13112 13112 auth.cpp:467] Calling send_auth_response
+adb I 07-09 03:36:02 13112 13112 adb.cpp:122] localhost:5038: offline
+adb I 07-09 03:36:53 13112 13130 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 03:36:53 13112 13130 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 03:36:53 13112 13112 adb.cpp:122] localhost:5038: offline
+adb I 07-09 03:36:53 13112 13112 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 03:36:53 13112 13112 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 03:36:53 13112 13112 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 03:36:53 13112 13112 transport.cpp:1106] kicking transport 0xf69009a0 localhost:5038
+adb I 07-09 03:36:53 13112 13112 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 14044) ---
+adb I 07-09 03:36:54 14044 14044 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 03:36:54 14044 14044 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 03:36:54 14044 14044 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 03:36:54 14044 14044 main.cpp:62] 
+adb I 07-09 03:36:54 14044 14044 auth.cpp:415] adb_auth_init...
+adb I 07-09 03:36:54 14044 14044 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 03:36:54 14044 14044 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 03:36:54 14044 14064 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 03:36:54 14044 14063 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 03:36:54 14044 14044 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 03:36:54 14044 14044 auth.cpp:467] Calling send_auth_response
+adb I 07-09 03:36:54 14044 14044 adb.cpp:122] localhost:5038: offline
+adb I 07-09 03:38:58 14044 14063 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 03:38:58 14044 14063 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 03:38:58 14044 14044 adb.cpp:122] localhost:5038: offline
+adb I 07-09 03:38:58 14044 14044 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 03:38:58 14044 14044 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 03:38:58 14044 14044 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 03:38:58 14044 14044 transport.cpp:1106] kicking transport 0xeba02760 localhost:5038
+adb I 07-09 03:38:58 14044 14044 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 17011) ---
+adb I 07-09 03:38:59 17011 17011 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 03:38:59 17011 17011 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 03:38:59 17011 17011 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 03:38:59 17011 17011 main.cpp:62] 
+adb I 07-09 03:38:59 17011 17011 auth.cpp:415] adb_auth_init...
+adb I 07-09 03:38:59 17011 17011 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 03:38:59 17011 17011 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 03:38:59 17011 17027 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 03:38:59 17011 17026 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 03:38:59 17011 17011 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 03:38:59 17011 17011 auth.cpp:467] Calling send_auth_response
+adb I 07-09 03:38:59 17011 17011 adb.cpp:122] localhost:5038: offline
+adb I 07-09 04:39:09 17011 17026 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 04:39:09 17011 17026 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 04:39:09 17011 17011 adb.cpp:122] localhost:5038: offline
+adb I 07-09 04:39:09 17011 17011 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 04:39:09 17011 17011 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 04:39:09 17011 17011 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-09 04:39:09 17011 17012 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-09 04:39:09 17011 17012 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-09 04:39:09 17011 20041 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 04:39:09 17011 20040 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 04:39:09 17011 17011 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 04:39:09 17011 17011 auth.cpp:467] Calling send_auth_response
+adb I 07-09 04:39:09 17011 17011 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 04:39:09 17011 17011 transport.cpp:1106] kicking transport 0xf1102650 localhost:5038
+adb I 07-09 04:39:09 17011 17011 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 04:39:09 17011 20040 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 04:39:09 17011 20040 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 04:39:09 17011 17011 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 20055) ---
+adb I 07-09 04:39:10 20055 20055 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 04:39:10 20055 20055 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 04:39:10 20055 20055 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 04:39:10 20055 20055 main.cpp:62] 
+adb I 07-09 04:39:10 20055 20055 auth.cpp:415] adb_auth_init...
+adb I 07-09 04:39:10 20055 20055 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 04:39:10 20055 20055 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 04:39:10 20055 20071 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 04:39:10 20055 20070 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 04:39:10 20055 20055 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 04:39:10 20055 20055 auth.cpp:467] Calling send_auth_response
+adb I 07-09 04:39:10 20055 20055 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 04:44:34 20055 20055 transport.cpp:1106] kicking transport 0xf06c3750 localhost:5038
+adb I 07-09 04:44:34 20055 20055 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 04:44:34 20055 20070 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 04:44:34 20055 20070 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 04:44:34 20055 20055 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 22941) ---
+adb I 07-09 04:44:37 22941 22941 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 04:44:37 22941 22941 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 04:44:37 22941 22941 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 04:44:37 22941 22941 main.cpp:62] 
+adb I 07-09 04:44:37 22941 22941 auth.cpp:415] adb_auth_init...
+adb I 07-09 04:44:37 22941 22941 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 04:44:37 22941 22941 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 04:44:37 22941 22959 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 04:44:37 22941 22960 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 04:44:37 22941 22941 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 04:44:37 22941 22941 auth.cpp:467] Calling send_auth_response
+adb I 07-09 04:44:37 22941 22941 adb.cpp:122] localhost:5038: offline
+adb I 07-09 04:45:06 22941 22959 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 04:45:06 22941 22959 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 04:45:06 22941 22941 adb.cpp:122] localhost:5038: offline
+adb I 07-09 04:45:06 22941 22941 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 04:45:06 22941 22941 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 04:45:06 22941 22941 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-09 04:45:06 22941 22942 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-09 04:45:06 22941 22942 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-09 04:45:06 22941 23354 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 04:45:06 22941 23353 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 04:45:06 22941 22941 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 04:45:06 22941 22941 auth.cpp:467] Calling send_auth_response
+adb I 07-09 04:45:06 22941 22941 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 04:45:06 22941 22941 transport.cpp:1106] kicking transport 0xed900670 localhost:5038
+adb I 07-09 04:45:06 22941 22941 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 04:45:06 22941 23353 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 04:45:06 22941 23353 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 04:45:06 22941 22941 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 23406) ---
+adb I 07-09 04:45:07 23406 23406 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 04:45:07 23406 23406 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 04:45:07 23406 23406 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 04:45:07 23406 23406 main.cpp:62] 
+adb I 07-09 04:45:07 23406 23406 auth.cpp:415] adb_auth_init...
+adb I 07-09 04:45:07 23406 23406 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 04:45:07 23406 23406 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 04:45:07 23406 23433 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 04:45:07 23406 23432 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 04:45:07 23406 23406 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 04:45:07 23406 23406 auth.cpp:467] Calling send_auth_response
+adb I 07-09 04:45:07 23406 23406 adb.cpp:122] localhost:5038: offline
+adb I 07-09 04:49:48 23406 23432 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 04:49:48 23406 23432 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 04:49:48 23406 23406 adb.cpp:122] localhost:5038: offline
+adb I 07-09 04:49:48 23406 23406 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 04:49:48 23406 23406 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 04:49:48 23406 23406 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 04:49:48 23406 23406 transport.cpp:1106] kicking transport 0xe8a41ff0 localhost:5038
+adb I 07-09 04:49:48 23406 23406 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 26223) ---
+adb I 07-09 04:49:48 26223 26223 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 04:49:48 26223 26223 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 04:49:48 26223 26223 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 04:49:48 26223 26223 main.cpp:62] 
+adb I 07-09 04:49:48 26223 26223 auth.cpp:415] adb_auth_init...
+adb I 07-09 04:49:49 26223 26223 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 04:49:49 26223 26223 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 04:49:49 26223 26238 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 04:49:49 26223 26239 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 04:49:49 26223 26223 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 04:49:49 26223 26223 auth.cpp:467] Calling send_auth_response
+adb I 07-09 04:49:49 26223 26223 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 04:53:58 26223 26223 transport.cpp:1106] kicking transport 0xedfc0340 localhost:5038
+adb I 07-09 04:53:58 26223 26223 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 04:53:58 26223 26238 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 04:53:58 26223 26238 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 04:53:58 26223 26223 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 4124) ---
+adb I 07-09 13:24:17  4124  4124 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 13:24:17  4124  4124 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 13:24:17  4124  4124 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 13:24:17  4124  4124 main.cpp:62] 
+adb I 07-09 13:24:17  4124  4124 auth.cpp:415] adb_auth_init...
+adb I 07-09 13:24:17  4124  4124 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 13:24:17  4124  4124 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 4355) ---
+adb I 07-09 13:24:21  4355  4355 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 13:24:21  4355  4355 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 13:24:21  4355  4355 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 13:24:21  4355  4355 main.cpp:62] 
+adb I 07-09 13:24:21  4355  4355 auth.cpp:415] adb_auth_init...
+adb I 07-09 13:24:21  4355  4355 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 13:24:21  4355  4355 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 13:24:22  4355  4382 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 13:24:22  4355  4383 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 13:24:22  4355  4355 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 13:24:22  4355  4355 auth.cpp:467] Calling send_auth_response
+adb I 07-09 13:24:22  4355  4355 adb.cpp:122] localhost:5038: offline
+adb I 07-09 13:26:12  4355  4382 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 13:26:12  4355  4382 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 13:26:12  4355  4355 adb.cpp:122] localhost:5038: offline
+adb I 07-09 13:26:12  4355  4355 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 13:26:12  4355  4355 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 13:26:12  4355  4355 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 13:26:12  4355  4355 transport.cpp:1106] kicking transport 0xea840de0 localhost:5038
+adb I 07-09 13:26:12  4355  4355 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 5980) ---
+adb I 07-09 13:26:12  5980  5980 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 13:26:12  5980  5980 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 13:26:12  5980  5980 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 13:26:12  5980  5980 main.cpp:62] 
+adb I 07-09 13:26:12  5980  5980 auth.cpp:415] adb_auth_init...
+adb I 07-09 13:26:12  5980  5980 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 13:26:12  5980  5980 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 13:26:12  5980  6014 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 13:26:12  5980  6015 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 13:26:12  5980  5980 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 13:26:12  5980  5980 auth.cpp:467] Calling send_auth_response
+adb I 07-09 13:26:13  5980  5980 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 13:37:41  5980  5980 transport.cpp:1106] kicking transport 0xe9d41990 localhost:5038
+adb I 07-09 13:37:41  5980  5980 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 13:37:41  5980  6014 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 13:37:41  5980  6014 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 13:37:41  5980  5980 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 598) ---
+adb I 07-09 15:18:37   598   598 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 15:18:37   598   598 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 15:18:37   598   598 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 15:18:37   598   598 main.cpp:62] 
+adb I 07-09 15:18:37   598   598 auth.cpp:415] adb_auth_init...
+adb I 07-09 15:18:37   598   598 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 15:18:37   598   598 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 15:18:37   598   623 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 15:18:37   598   622 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 15:18:38   598   598 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 15:18:38   598   598 auth.cpp:467] Calling send_auth_response
+adb I 07-09 15:18:38   598   598 adb.cpp:122] localhost:5038: offline
+adb I 07-09 15:19:16   598   622 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 15:19:16   598   622 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 15:19:16   598   598 adb.cpp:122] localhost:5038: offline
+adb I 07-09 15:19:16   598   598 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 15:19:16   598   598 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 15:19:16   598   598 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-09 15:19:16   598   600 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-09 15:19:16   598   600 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-09 15:19:16   598  1409 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 15:19:16   598  1410 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 15:19:16   598   598 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 15:19:16   598   598 auth.cpp:467] Calling send_auth_response
+adb I 07-09 15:19:16   598   598 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 15:19:16   598   598 transport.cpp:1106] kicking transport 0xec501dd0 localhost:5038
+adb I 07-09 15:19:16   598   598 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 15:19:16   598  1409 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 15:19:16   598  1409 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 15:19:16   598   598 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 1437) ---
+adb I 07-09 15:19:16  1437  1437 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 15:19:16  1437  1437 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 15:19:16  1437  1437 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 15:19:16  1437  1437 main.cpp:62] 
+adb I 07-09 15:19:16  1437  1437 auth.cpp:415] adb_auth_init...
+adb I 07-09 15:19:16  1437  1437 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 15:19:16  1437  1437 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 15:19:17  1437  1461 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 15:19:17  1437  1462 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 15:19:17  1437  1437 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 15:19:17  1437  1437 auth.cpp:467] Calling send_auth_response
+adb I 07-09 15:19:17  1437  1437 adb.cpp:122] localhost:5038: offline
+adb I 07-09 15:40:09  1437  1461 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 15:40:09  1437  1461 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 15:40:09  1437  1437 adb.cpp:122] localhost:5038: offline
+adb I 07-09 15:40:09  1437  1437 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 15:40:09  1437  1437 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 15:40:09  1437  1437 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 15:40:09  1437  1437 transport.cpp:1106] kicking transport 0xf4381990 localhost:5038
+adb I 07-09 15:40:09  1437  1437 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 8363) ---
+adb I 07-09 15:40:09  8363  8363 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 15:40:09  8363  8363 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 15:40:09  8363  8363 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 15:40:09  8363  8363 main.cpp:62] 
+adb I 07-09 15:40:09  8363  8363 auth.cpp:415] adb_auth_init...
+adb I 07-09 15:40:09  8363  8363 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 15:40:09  8363  8363 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 15:40:09  8363  8380 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 15:40:09  8363  8382 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 15:40:09  8363  8363 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 15:40:09  8363  8363 auth.cpp:467] Calling send_auth_response
+adb I 07-09 15:40:10  8363  8363 adb.cpp:122] localhost:5038: offline
+adb I 07-09 16:23:45  8363  8380 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 16:23:45  8363  8380 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 16:23:45  8363  8363 adb.cpp:122] localhost:5038: offline
+adb I 07-09 16:23:45  8363  8363 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 16:23:45  8363  8363 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 16:23:45  8363  8363 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-09 16:23:45  8363  8364 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-09 16:23:45  8363  8364 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-09 16:23:45  8363 30921 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 16:23:45  8363 30922 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 16:23:45  8363  8363 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 16:23:45  8363  8363 auth.cpp:467] Calling send_auth_response
+adb I 07-09 16:23:45  8363  8363 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 16:41:35  8363  8363 transport.cpp:1106] kicking transport 0xf0a80bc0 localhost:5038
+adb I 07-09 16:41:35  8363  8363 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 16:41:35  8363 30921 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 16:41:35  8363 30921 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 16:41:35  8363  8363 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 5953) ---
+adb I 07-09 16:43:29  5953  5953 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 16:43:29  5953  5953 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 16:43:29  5953  5953 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 16:43:29  5953  5953 main.cpp:62] 
+adb I 07-09 16:43:29  5953  5953 auth.cpp:415] adb_auth_init...
+adb I 07-09 16:43:29  5953  5953 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 16:43:29  5953  5953 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 16:44:20  5953  6411 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 16:44:20  5953  6412 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 16:44:20  5953  5953 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 16:44:20  5953  5953 auth.cpp:467] Calling send_auth_response
+adb I 07-09 16:44:20  5953  5953 adb.cpp:122] localhost:5038: offline
+adb I 07-09 16:44:26  5953  5953 transport.cpp:1106] kicking transport 0xf52c1550 localhost:5038
+adb I 07-09 16:44:26  5953  5953 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 16:44:26  5953  6411 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 16:44:26  5953  6411 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 16:44:26  5953  5953 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-09 16:44:26  5953  5953 adb.cpp:122] localhost:5038: offline
+adb I 07-09 16:44:26  5953  5953 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 16:44:26  5953  5953 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-09 16:44:26  5953  5953 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-09 16:44:26  5953  5953 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-09 16:44:29  5953  6467 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 16:44:29  5953  6468 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 16:44:29  5953  5953 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 16:44:29  5953  5953 auth.cpp:467] Calling send_auth_response
+adb I 07-09 16:44:29  5953  5953 adb.cpp:122] localhost:5038: offline
+adb I 07-09 17:27:54  5953  6467 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 17:27:54  5953  6467 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 17:27:54  5953  5953 adb.cpp:122] localhost:5038: offline
+adb I 07-09 17:27:54  5953  5953 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 17:27:54  5953  5953 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 17:27:54  5953  5953 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 14589) ---
+adb I 07-09 17:32:05 14589 14589 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 17:32:05 14589 14589 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 17:32:05 14589 14589 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 17:32:05 14589 14589 main.cpp:62] 
+adb I 07-09 17:32:05 14589 14589 auth.cpp:415] adb_auth_init...
+adb I 07-09 17:32:05 14589 14589 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 17:32:05 14589 14589 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 16077) ---
+adb I 07-09 17:32:29 16077 16077 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 17:32:29 16077 16077 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 17:32:29 16077 16077 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 17:32:29 16077 16077 main.cpp:62] 
+adb I 07-09 17:32:29 16077 16077 auth.cpp:415] adb_auth_init...
+adb I 07-09 17:32:29 16077 16077 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 17:32:29 16077 16077 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 17:32:29 16077 16129 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 17:32:29 16077 16131 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 17:32:29 16077 16077 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 17:32:29 16077 16077 auth.cpp:467] Calling send_auth_response
+adb I 07-09 17:32:29 16077 16077 adb.cpp:122] localhost:5038: offline
+adb I 07-09 17:32:34 16077 16411 transport.cpp:279] BlockingConnectionAdapter(): destructing
+adb I 07-09 17:32:34 16077 16411 transport.cpp:383] BlockingConnectionAdapter(): not started
+adb server killed by remote request
+adb I 07-09 17:37:24 16077 16077 transport.cpp:1106] kicking transport 0xf0102cb0 localhost:5038
+adb I 07-09 17:37:24 16077 16077 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 17:37:24 16077 16129 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 17:37:24 16077 16129 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 17:37:24 16077 16077 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 30544) ---
+adb I 07-09 17:37:28 30544 30544 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 17:37:28 30544 30544 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 17:37:28 30544 30544 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 17:37:28 30544 30544 main.cpp:62] 
+adb I 07-09 17:37:28 30544 30544 auth.cpp:415] adb_auth_init...
+adb I 07-09 17:37:28 30544 30544 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 17:37:28 30544 30544 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 17:37:29 30544 30573 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 17:37:29 30544 30574 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 17:37:29 30544 30544 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 17:37:29 30544 30544 auth.cpp:467] Calling send_auth_response
+adb I 07-09 17:37:29 30544 30544 adb.cpp:122] localhost:5038: offline
+adb I 07-09 17:37:32 30544 30573 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 17:37:32 30544 30573 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 17:37:32 30544 30544 adb.cpp:122] localhost:5038: offline
+adb I 07-09 17:37:32 30544 30544 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 17:37:32 30544 30544 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 17:37:32 30544 30544 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-09 17:37:33 30544 30545 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-09 17:37:33 30544 30545 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-09 17:37:33 30544 30747 transport.cpp:321] localhost:5038: read thread spawning
+adb server killed by remote request
+adb I 07-09 17:37:33 30544 30544 transport.cpp:1106] kicking transport 0xe7182ed0 localhost:5038
+adb I 07-09 17:37:33 30544 30748 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 17:37:33 30544 30544 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 17:37:33 30544 30747 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 17:37:33 30544 30747 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 17:37:33 30544 30544 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 30765) ---
+adb I 07-09 17:37:33 30765 30765 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 17:37:33 30765 30765 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 17:37:33 30765 30765 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 17:37:33 30765 30765 main.cpp:62] 
+adb I 07-09 17:37:33 30765 30765 auth.cpp:415] adb_auth_init...
+adb I 07-09 17:37:33 30765 30765 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 17:37:33 30765 30765 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 17:37:33 30765 30822 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 17:37:33 30765 30823 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 17:37:33 30765 30765 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 17:37:33 30765 30765 auth.cpp:467] Calling send_auth_response
+adb I 07-09 17:37:33 30765 30765 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 20:55:11 30765 30765 transport.cpp:1106] kicking transport 0xf31c3530 localhost:5038
+adb I 07-09 20:55:11 30765 30765 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 20:55:11 30765 30822 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 20:55:11 30765 30822 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 20:55:11 30765 30765 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 13364) ---
+adb I 07-09 20:55:22 13364 13364 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 20:55:22 13364 13364 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 20:55:22 13364 13364 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 20:55:22 13364 13364 main.cpp:62] 
+adb I 07-09 20:55:22 13364 13364 auth.cpp:415] adb_auth_init...
+adb I 07-09 20:55:22 13364 13364 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 20:55:22 13364 13364 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 20:55:22 13364 13383 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 20:55:22 13364 13384 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 20:55:22 13364 13364 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 20:55:22 13364 13364 auth.cpp:467] Calling send_auth_response
+adb I 07-09 20:55:22 13364 13364 adb.cpp:122] localhost:5038: offline
+adb I 07-09 20:59:43 13364 13383 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 20:59:43 13364 13383 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 20:59:43 13364 13364 adb.cpp:122] localhost:5038: offline
+adb I 07-09 20:59:43 13364 13364 transport.cpp:914] destroying transport localhost:5038
+adb I 07-09 20:59:43 13364 13364 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 20:59:43 13364 13364 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-09 20:59:44 13364 13364 transport.cpp:1106] kicking transport 0xec543420 localhost:5038
+adb I 07-09 20:59:44 13364 13364 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 17441) ---
+adb I 07-09 20:59:44 17441 17441 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 20:59:44 17441 17441 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 20:59:44 17441 17441 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 20:59:44 17441 17441 main.cpp:62] 
+adb I 07-09 20:59:44 17441 17441 auth.cpp:415] adb_auth_init...
+adb I 07-09 20:59:44 17441 17441 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 20:59:44 17441 17441 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 20:59:44 17441 17470 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 20:59:44 17441 17471 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 20:59:44 17441 17441 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 20:59:44 17441 17441 auth.cpp:467] Calling send_auth_response
+adb I 07-09 20:59:44 17441 17441 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 21:03:51 17441 17441 transport.cpp:1106] kicking transport 0xf3b80bc0 localhost:5038
+adb I 07-09 21:03:51 17441 17441 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 21:03:51 17441 17470 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 21:03:51 17441 17470 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 21:03:51 17441 17441 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 20315) ---
+adb I 07-09 21:04:25 20315 20315 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 21:04:25 20315 20315 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 21:04:25 20315 20315 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 21:04:25 20315 20315 main.cpp:62] 
+adb I 07-09 21:04:25 20315 20315 auth.cpp:415] adb_auth_init...
+adb I 07-09 21:04:25 20315 20315 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 21:04:25 20315 20315 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 26605) ---
+adb I 07-09 21:18:54 26605 26605 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 21:18:54 26605 26605 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 21:18:54 26605 26605 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 21:18:54 26605 26605 main.cpp:62] 
+adb I 07-09 21:18:54 26605 26605 auth.cpp:415] adb_auth_init...
+adb I 07-09 21:18:54 26605 26605 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 21:18:54 26605 26605 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 21:18:54 26605 26630 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 21:18:54 26605 26631 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 21:18:54 26605 26605 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 21:18:54 26605 26605 auth.cpp:467] Calling send_auth_response
+adb I 07-09 21:18:54 26605 26605 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-09 21:28:37 26605 26605 transport.cpp:1106] kicking transport 0xeeac0890 localhost:5038
+adb I 07-09 21:28:37 26605 26605 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-09 21:28:37 26605 26630 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-09 21:28:37 26605 26630 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-09 21:28:37 26605 26605 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 30260) ---
+adb I 07-09 21:28:44 30260 30260 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-09 21:28:44 30260 30260 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-09 21:28:44 30260 30260 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-09 21:28:44 30260 30260 main.cpp:62] 
+adb I 07-09 21:28:44 30260 30260 auth.cpp:415] adb_auth_init...
+adb I 07-09 21:28:44 30260 30260 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-09 21:28:44 30260 30260 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-09 21:28:44 30260 30282 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-09 21:28:44 30260 30281 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-09 21:28:44 30260 30260 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-09 21:28:44 30260 30260 auth.cpp:467] Calling send_auth_response
+adb I 07-09 21:28:44 30260 30260 adb.cpp:122] localhost:5038: offline
+adb I 07-10 00:04:50 30260 30281 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 00:04:50 30260 30281 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 00:04:50 30260 30260 adb.cpp:122] localhost:5038: offline
+adb I 07-10 00:04:50 30260 30260 transport.cpp:914] destroying transport localhost:5038
+adb I 07-10 00:04:50 30260 30260 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 00:04:50 30260 30260 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 13419) ---
+adb I 07-10 03:30:58 13419 13419 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 03:30:58 13419 13419 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 03:30:58 13419 13419 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 03:30:58 13419 13419 main.cpp:62] 
+adb I 07-10 03:30:58 13419 13419 auth.cpp:415] adb_auth_init...
+adb I 07-10 03:30:58 13419 13419 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 03:30:58 13419 13419 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 03:30:59 13419 13462 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 03:30:59 13419 13463 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 03:30:59 13419 13419 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 03:30:59 13419 13419 auth.cpp:467] Calling send_auth_response
+adb I 07-10 03:30:59 13419 13419 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 03:31:10 13419 13419 transport.cpp:1106] kicking transport 0xe9801aa0 localhost:5038
+adb I 07-10 03:31:10 13419 13419 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 03:31:10 13419 13462 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 03:31:10 13419 13462 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 03:31:10 13419 13419 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 25606) ---
+adb I 07-10 14:29:31 25606 25606 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 14:29:31 25606 25606 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 14:29:31 25606 25606 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 14:29:31 25606 25606 main.cpp:62] 
+adb I 07-10 14:29:31 25606 25606 auth.cpp:415] adb_auth_init...
+adb I 07-10 14:29:31 25606 25606 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 14:29:31 25606 25606 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 14:29:31 25606 25622 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 14:29:31 25606 25621 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 14:29:31 25606 25606 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 14:29:31 25606 25606 auth.cpp:467] Calling send_auth_response
+adb I 07-10 14:29:31 25606 25606 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 14:34:16 25606 25606 transport.cpp:1106] kicking transport 0xe6f01660 localhost:5038
+adb I 07-10 14:34:16 25606 25606 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 14:34:16 25606 25621 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 14:34:16 25606 25621 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 14:34:16 25606 25606 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 21494) ---
+adb I 07-10 17:24:17 21494 21494 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 17:24:17 21494 21494 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 17:24:17 21494 21494 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 17:24:17 21494 21494 main.cpp:62] 
+adb I 07-10 17:24:17 21494 21494 auth.cpp:415] adb_auth_init...
+adb I 07-10 17:24:18 21494 21494 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 17:24:18 21494 21494 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 17:24:18 21494 21519 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 17:24:18 21494 21520 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 17:24:18 21494 21494 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 17:24:18 21494 21494 auth.cpp:467] Calling send_auth_response
+adb I 07-10 17:24:18 21494 21494 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 17:24:31 21494 21494 transport.cpp:1106] kicking transport 0xf4d009a0 localhost:5038
+adb I 07-10 17:24:31 21494 21494 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 17:24:31 21494 21519 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 17:24:31 21494 21519 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 17:24:31 21494 21494 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 19727) ---
+adb I 07-10 18:16:01 19727 19727 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 18:16:01 19727 19727 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 18:16:01 19727 19727 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 18:16:01 19727 19727 main.cpp:62] 
+adb I 07-10 18:16:01 19727 19727 auth.cpp:415] adb_auth_init...
+adb I 07-10 18:16:01 19727 19727 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 18:16:01 19727 19727 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 18:16:01 19727 19742 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 18:16:01 19727 19743 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 18:16:01 19727 19727 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 18:16:01 19727 19727 auth.cpp:467] Calling send_auth_response
+adb I 07-10 18:16:01 19727 19727 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 18:16:15 19727 19727 transport.cpp:1106] kicking transport 0xef343970 localhost:5038
+adb I 07-10 18:16:15 19727 19727 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 18:16:15 19727 19742 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 18:16:15 19727 19742 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 18:16:15 19727 19727 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 19912) ---
+adb I 07-10 18:16:19 19912 19912 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 18:16:19 19912 19912 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 18:16:19 19912 19912 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 18:16:19 19912 19912 main.cpp:62] 
+adb I 07-10 18:16:19 19912 19912 auth.cpp:415] adb_auth_init...
+adb I 07-10 18:16:19 19912 19912 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 18:16:19 19912 19912 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 20027) ---
+adb I 07-10 18:16:24 20027 20027 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 18:16:24 20027 20027 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 18:16:24 20027 20027 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 18:16:24 20027 20027 main.cpp:62] 
+adb I 07-10 18:16:24 20027 20027 auth.cpp:415] adb_auth_init...
+adb I 07-10 18:16:24 20027 20027 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 18:16:24 20027 20027 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 18:16:25 20027 20042 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 18:16:25 20027 20043 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 18:16:25 20027 20027 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 18:16:25 20027 20027 auth.cpp:467] Calling send_auth_response
+adb I 07-10 18:16:25 20027 20027 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 18:17:49 20027 20027 transport.cpp:1106] kicking transport 0xf14c2100 localhost:5038
+adb I 07-10 18:17:49 20027 20027 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 18:17:49 20027 20042 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 18:17:49 20027 20042 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 18:17:49 20027 20027 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 20298) ---
+adb I 07-10 18:17:52 20298 20298 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 18:17:52 20298 20298 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 18:17:52 20298 20298 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 18:17:52 20298 20298 main.cpp:62] 
+adb I 07-10 18:17:52 20298 20298 auth.cpp:415] adb_auth_init...
+adb I 07-10 18:17:52 20298 20298 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 18:17:52 20298 20298 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 18:17:52 20298 20313 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 18:17:52 20298 20314 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 18:17:52 20298 20298 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 18:17:52 20298 20298 auth.cpp:467] Calling send_auth_response
+adb I 07-10 18:17:52 20298 20298 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 18:30:17 20298 20298 transport.cpp:1106] kicking transport 0xe9bc3a80 localhost:5038
+adb I 07-10 18:30:17 20298 20298 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 18:30:17 20298 20313 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 18:30:17 20298 20313 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 18:30:17 20298 20298 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 29746) ---
+adb I 07-10 18:38:53 29746 29746 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 18:38:53 29746 29746 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 18:38:53 29746 29746 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 18:38:53 29746 29746 main.cpp:62] 
+adb I 07-10 18:38:53 29746 29746 auth.cpp:415] adb_auth_init...
+adb I 07-10 18:38:53 29746 29746 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 18:38:53 29746 29746 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 18:38:53 29746 29769 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 18:38:53 29746 29771 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 18:38:53 29746 29746 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 18:38:53 29746 29746 auth.cpp:467] Calling send_auth_response
+adb I 07-10 18:38:53 29746 29746 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 19:11:05 29746 29746 transport.cpp:1106] kicking transport 0xe91c2cb0 localhost:5038
+adb I 07-10 19:11:05 29746 29746 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 19:11:05 29746 29769 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 19:11:05 29746 29769 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 19:11:05 29746 29746 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 14068) ---
+adb I 07-10 19:11:17 14068 14068 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 19:11:17 14068 14068 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 19:11:17 14068 14068 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 19:11:17 14068 14068 main.cpp:62] 
+adb I 07-10 19:11:17 14068 14068 auth.cpp:415] adb_auth_init...
+adb I 07-10 19:11:17 14068 14068 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 19:11:17 14068 14068 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 19:11:17 14068 14084 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 19:11:17 14068 14086 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 19:11:17 14068 14068 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 19:11:17 14068 14068 auth.cpp:467] Calling send_auth_response
+adb I 07-10 19:11:17 14068 14068 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 19:11:34 14068 14068 transport.cpp:1106] kicking transport 0xf4f42cb0 localhost:5038
+adb I 07-10 19:11:34 14068 14068 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 19:11:34 14068 14084 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 19:11:34 14068 14084 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 19:11:34 14068 14068 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 14397) ---
+adb I 07-10 19:11:43 14397 14397 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 19:11:43 14397 14397 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 19:11:43 14397 14397 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 19:11:43 14397 14397 main.cpp:62] 
+adb I 07-10 19:11:43 14397 14397 auth.cpp:415] adb_auth_init...
+adb I 07-10 19:11:43 14397 14397 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 19:11:43 14397 14397 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 19:11:44 14397 14413 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 19:11:44 14397 14412 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 19:11:44 14397 14397 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 19:11:44 14397 14397 auth.cpp:467] Calling send_auth_response
+adb I 07-10 19:11:44 14397 14397 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 19:49:24 14397 14397 transport.cpp:1106] kicking transport 0xeaa02100 localhost:5038
+adb I 07-10 19:49:24 14397 14397 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 19:49:24 14397 14412 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 19:49:24 14397 14412 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 19:49:24 14397 14397 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 26349) ---
+adb I 07-10 20:50:26 26349 26349 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-10 20:50:26 26349 26349 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-10 20:50:26 26349 26349 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-10 20:50:26 26349 26349 main.cpp:62] 
+adb I 07-10 20:50:26 26349 26349 auth.cpp:415] adb_auth_init...
+adb I 07-10 20:50:26 26349 26349 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-10 20:50:26 26349 26349 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-10 20:50:26 26349 26379 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-10 20:50:26 26349 26380 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-10 20:50:26 26349 26349 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-10 20:50:26 26349 26349 auth.cpp:467] Calling send_auth_response
+adb I 07-10 20:50:27 26349 26349 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-10 20:51:36 26349 26349 transport.cpp:1106] kicking transport 0xe7e82760 localhost:5038
+adb I 07-10 20:51:36 26349 26349 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-10 20:51:36 26349 26379 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-10 20:51:36 26349 26379 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-10 20:51:36 26349 26349 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 18113) ---
+adb I 07-11 18:50:53 18113 18113 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-11 18:50:53 18113 18113 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-11 18:50:53 18113 18113 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-11 18:50:53 18113 18113 main.cpp:62] 
+adb I 07-11 18:50:53 18113 18113 auth.cpp:415] adb_auth_init...
+adb I 07-11 18:50:53 18113 18113 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-11 18:50:53 18113 18113 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-11 18:50:53 18113 18128 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 18:50:53 18113 18129 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 18:50:53 18113 18113 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 18:50:53 18113 18113 auth.cpp:467] Calling send_auth_response
+adb I 07-11 18:50:53 18113 18113 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-11 18:51:32 18113 18113 transport.cpp:1106] kicking transport 0xee4c2320 localhost:5038
+adb I 07-11 18:51:32 18113 18113 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 18:51:32 18113 18128 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 18:51:32 18113 18128 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 18:51:32 18113 18113 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 29125) ---
+adb I 07-11 20:54:27 29125 29125 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-11 20:54:27 29125 29125 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-11 20:54:27 29125 29125 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-11 20:54:27 29125 29125 main.cpp:62] 
+adb I 07-11 20:54:27 29125 29125 auth.cpp:415] adb_auth_init...
+adb I 07-11 20:54:27 29125 29125 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-11 20:54:27 29125 29125 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-11 20:54:28 29125 29141 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 20:54:28 29125 29142 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 20:54:28 29125 29125 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 20:54:28 29125 29125 auth.cpp:467] Calling send_auth_response
+adb I 07-11 20:54:28 29125 29125 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:13:09 29125 29141 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 21:13:09 29125 29141 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 21:13:09 29125 29125 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:13:09 29125 29125 transport.cpp:914] destroying transport localhost:5038
+adb I 07-11 21:13:09 29125 29125 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 21:13:09 29125 29125 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 11325) ---
+adb I 07-11 21:14:46 11325 11325 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-11 21:14:46 11325 11325 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-11 21:14:46 11325 11325 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-11 21:14:46 11325 11325 main.cpp:62] 
+adb I 07-11 21:14:46 11325 11325 auth.cpp:415] adb_auth_init...
+adb I 07-11 21:14:46 11325 11325 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-11 21:14:46 11325 11325 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-11 21:14:47 11325 11387 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 21:14:47 11325 11386 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 21:14:47 11325 11325 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 21:14:47 11325 11325 auth.cpp:467] Calling send_auth_response
+adb I 07-11 21:14:47 11325 11325 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:14:48 11325 11386 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 21:14:48 11325 11386 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 21:14:48 11325 11325 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:14:48 11325 11325 transport.cpp:914] destroying transport localhost:5038
+adb I 07-11 21:14:48 11325 11325 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 21:14:48 11325 11325 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-11 21:14:48 11325 11327 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-11 21:14:48 11325 11327 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-11 21:14:48 11325 11513 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 21:14:48 11325 11514 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 21:14:48 11325 11325 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 21:14:48 11325 11325 auth.cpp:467] Calling send_auth_response
+adb I 07-11 21:14:48 11325 11325 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-11 21:14:48 11325 11325 transport.cpp:1106] kicking transport 0xf2b01220 localhost:5038
+adb I 07-11 21:14:48 11325 11325 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 21:14:48 11325 11513 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 21:14:48 11325 11513 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 21:14:49 11325 11325 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 11562) ---
+adb I 07-11 21:14:49 11562 11562 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-11 21:14:49 11562 11562 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-11 21:14:49 11562 11562 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-11 21:14:49 11562 11562 main.cpp:62] 
+adb I 07-11 21:14:49 11562 11562 auth.cpp:415] adb_auth_init...
+adb I 07-11 21:14:49 11562 11562 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-11 21:14:49 11562 11562 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-11 21:14:49 11562 11587 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 21:14:49 11562 11588 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 21:14:49 11562 11562 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 21:14:49 11562 11562 auth.cpp:467] Calling send_auth_response
+adb I 07-11 21:14:49 11562 11562 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:15:26 11562 11587 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 21:15:26 11562 11587 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 21:15:26 11562 11562 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:15:26 11562 11562 transport.cpp:914] destroying transport localhost:5038
+adb I 07-11 21:15:26 11562 11562 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 21:15:26 11562 11562 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-11 21:15:26 11562 11564 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-11 21:15:26 11562 11564 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-11 21:15:26 11562 13842 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 21:15:26 11562 13843 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 21:15:26 11562 11562 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 21:15:26 11562 11562 auth.cpp:467] Calling send_auth_response
+adb I 07-11 21:15:26 11562 11562 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:19:01 11562 13842 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 21:19:01 11562 13842 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 21:19:01 11562 11562 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:19:01 11562 11562 transport.cpp:914] destroying transport localhost:5038
+adb I 07-11 21:19:01 11562 11562 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 21:19:01 11562 11562 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-11 21:19:01 11562 11564 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-11 21:19:01 11562 11564 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-11 21:19:01 11562 25507 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 21:19:01 11562 25508 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 21:19:01 11562 11562 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 21:19:01 11562 11562 auth.cpp:467] Calling send_auth_response
+adb I 07-11 21:19:01 11562 11562 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:20:47 11562 25507 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 21:20:47 11562 25507 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 21:20:47 11562 11562 adb.cpp:122] localhost:5038: offline
+adb I 07-11 21:20:47 11562 11562 transport.cpp:914] destroying transport localhost:5038
+adb I 07-11 21:20:47 11562 11562 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 21:20:47 11562 11562 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-11 21:21:47 11562 11562 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-11 21:21:47 11562 11562 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 13862) ---
+adb I 07-11 21:31:11 13862 13862 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-11 21:31:11 13862 13862 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-11 21:31:11 13862 13862 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-11 21:31:11 13862 13862 main.cpp:62] 
+adb I 07-11 21:31:11 13862 13862 auth.cpp:415] adb_auth_init...
+adb I 07-11 21:31:11 13862 13862 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-11 21:31:11 13862 13862 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-11 21:31:11 13862 13912 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 21:31:11 13862 13911 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 21:31:11 13862 13862 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 21:31:11 13862 13862 auth.cpp:467] Calling send_auth_response
+adb I 07-11 21:31:11 13862 13862 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-11 21:43:21 13862 13862 transport.cpp:1106] kicking transport 0xef681aa0 localhost:5038
+adb I 07-11 21:43:21 13862 13862 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 21:43:21 13862 13911 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 21:43:21 13862 13911 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 21:43:21 13862 13862 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 3598) ---
+adb I 07-11 21:43:35  3598  3598 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-11 21:43:35  3598  3598 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-11 21:43:35  3598  3598 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-11 21:43:35  3598  3598 main.cpp:62] 
+adb I 07-11 21:43:35  3598  3598 auth.cpp:415] adb_auth_init...
+adb I 07-11 21:43:35  3598  3598 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-11 21:43:35  3598  3598 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-11 21:43:35  3598  3613 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 21:43:35  3598  3614 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 21:43:35  3598  3598 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 21:43:35  3598  3598 auth.cpp:467] Calling send_auth_response
+adb I 07-11 21:43:35  3598  3598 adb.cpp:122] localhost:5038: offline
+adb I 07-11 23:04:21  3598  3613 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 23:04:21  3598  3613 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 23:04:21  3598  3598 adb.cpp:122] localhost:5038: offline
+adb I 07-11 23:04:21  3598  3598 transport.cpp:914] destroying transport localhost:5038
+adb I 07-11 23:04:21  3598  3598 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 23:04:21  3598  3598 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb server killed by remote request
+adb I 07-11 23:04:29  3598  3598 transport.cpp:1106] kicking transport 0xf33c1880 localhost:5038
+adb I 07-11 23:04:29  3598  3598 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+--- adb starting (pid 3624) ---
+adb I 07-11 23:04:29  3624  3624 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-11 23:04:29  3624  3624 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-11 23:04:29  3624  3624 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-11 23:04:29  3624  3624 main.cpp:62] 
+adb I 07-11 23:04:29  3624  3624 auth.cpp:415] adb_auth_init...
+adb I 07-11 23:04:29  3624  3624 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-11 23:04:29  3624  3624 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-11 23:04:29  3624  3643 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 23:04:29  3624  3645 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 23:04:29  3624  3624 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 23:04:29  3624  3624 auth.cpp:467] Calling send_auth_response
+adb I 07-11 23:04:29  3624  3624 adb.cpp:122] localhost:5038: offline
+adb I 07-11 23:04:50  3624  3643 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-11 23:04:50  3624  3643 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-11 23:04:50  3624  3624 adb.cpp:122] localhost:5038: offline
+adb I 07-11 23:04:50  3624  3624 transport.cpp:914] destroying transport localhost:5038
+adb I 07-11 23:04:50  3624  3624 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-11 23:04:50  3624  3624 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+adb I 07-11 23:05:00  3624  3625 transport.cpp:279] BlockingConnectionAdapter(localhost:5038): destructing
+adb I 07-11 23:05:00  3624  3625 transport.cpp:388] BlockingConnectionAdapter(localhost:5038): already stopped
+adb I 07-11 23:05:00  3624  4029 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-11 23:05:00  3624  4043 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-11 23:05:00  3624  3624 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-11 23:05:00  3624  3624 auth.cpp:467] Calling send_auth_response
+adb I 07-11 23:05:00  3624  3624 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-12 04:52:27  3624  3624 transport.cpp:1106] kicking transport 0xf15c2100 localhost:5038
+adb I 07-12 04:52:27  3624  3624 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-12 04:52:27  3624  4029 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-12 04:52:27  3624  4029 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-12 04:52:27  3624  3624 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 26492) ---
+adb I 07-13 03:53:04 26492 26492 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-13 03:53:04 26492 26492 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-13 03:53:04 26492 26492 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-13 03:53:04 26492 26492 main.cpp:62] 
+adb I 07-13 03:53:04 26492 26492 auth.cpp:415] adb_auth_init...
+adb I 07-13 03:53:04 26492 26492 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-13 03:53:04 26492 26492 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-13 03:53:04 26492 26507 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-13 03:53:04 26492 26508 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-13 03:53:04 26492 26492 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-13 03:53:04 26492 26492 auth.cpp:467] Calling send_auth_response
+adb I 07-13 03:53:04 26492 26492 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-14 01:07:18 26492 26492 transport.cpp:1106] kicking transport 0xf4c009a0 localhost:5038
+adb I 07-14 01:07:18 26492 26492 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-14 01:07:18 26492 26507 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-14 01:07:18 26492 26507 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-14 01:07:18 26492 26492 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
+--- adb starting (pid 25159) ---
+adb I 07-14 01:07:24 25159 25159 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-14 01:07:24 25159 25159 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-14 01:07:24 25159 25159 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-14 01:07:24 25159 25159 main.cpp:62] 
+adb I 07-14 01:07:24 25159 25159 auth.cpp:415] adb_auth_init...
+adb I 07-14 01:07:24 25159 25159 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-14 01:07:24 25159 25159 auth.cpp:390] adb_auth_inotify_init...
+--- adb starting (pid 7444) ---
+adb I 07-14 02:04:55  7444  7444 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-14 02:04:55  7444  7444 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-14 02:04:55  7444  7444 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-14 02:04:55  7444  7444 main.cpp:62] 
+adb I 07-14 02:04:55  7444  7444 auth.cpp:415] adb_auth_init...
+adb I 07-14 02:04:55  7444  7444 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-14 02:04:55  7444  7444 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-14 02:05:28  7444  7763 transport.cpp:321] 192.168.3.252:8101: read thread spawning
+adb I 07-14 02:05:28  7444  7764 transport.cpp:293] 192.168.3.252:8101: write thread spawning
+adb I 07-14 02:05:28  7444  7444 transport.cpp:1518] fetching keys for transport 192.168.3.252:8101
+adb I 07-14 02:05:28  7444  7444 auth.cpp:467] Calling send_auth_response
+adb I 07-14 02:05:28  7444  7444 auth.cpp:434] Calling send_auth_publickey
+adb I 07-14 02:05:35  7444  7779 transport.cpp:279] BlockingConnectionAdapter(): destructing
+adb I 07-14 02:05:35  7444  7779 transport.cpp:383] BlockingConnectionAdapter(): not started
+adb I 07-14 02:05:38  7444  7791 transport.cpp:279] BlockingConnectionAdapter(): destructing
+adb I 07-14 02:05:38  7444  7791 transport.cpp:383] BlockingConnectionAdapter(): not started
+adb I 07-14 02:05:50  7444  7847 transport.cpp:279] BlockingConnectionAdapter(): destructing
+adb I 07-14 02:05:50  7444  7847 transport.cpp:383] BlockingConnectionAdapter(): not started
+adb server killed by remote request
+adb I 07-14 02:06:03  7444  7444 transport.cpp:1106] kicking transport 0xf5d41dd0 192.168.3.252:8101
+adb I 07-14 02:06:03  7444  7444 transport.cpp:396] BlockingConnectionAdapter(192.168.3.252:8101): stopping
+adb I 07-14 02:06:03  7444  7763 transport.cpp:325] 192.168.3.252:8101: read failed: Success
+adb I 07-14 02:06:03  7444  7763 transport.cpp:810] 192.168.3.252:8101: connection terminated: read failed
+adb I 07-14 02:06:03  7444  7444 transport.cpp:414] BlockingConnectionAdapter(192.168.3.252:8101): stopped
+--- adb starting (pid 7883) ---
+adb I 07-14 02:06:10  7883  7883 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-14 02:06:10  7883  7883 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-14 02:06:10  7883  7883 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-14 02:06:10  7883  7883 main.cpp:62] 
+adb I 07-14 02:06:10  7883  7883 auth.cpp:415] adb_auth_init...
+adb I 07-14 02:06:10  7883  7883 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-14 02:06:10  7883  7883 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-14 02:06:10  7883  7893 transport.cpp:321] 192.168.3.252:8101: read thread spawning
+adb I 07-14 02:06:10  7883  7895 transport.cpp:293] 192.168.3.252:8101: write thread spawning
+adb I 07-14 02:06:10  7883  7883 transport.cpp:1518] fetching keys for transport 192.168.3.252:8101
+adb I 07-14 02:06:10  7883  7883 auth.cpp:467] Calling send_auth_response
+adb I 07-14 02:06:10  7883  7883 auth.cpp:434] Calling send_auth_publickey
+adb I 07-14 02:06:16  7883  7908 transport.cpp:279] BlockingConnectionAdapter(): destructing
+adb I 07-14 02:06:16  7883  7908 transport.cpp:383] BlockingConnectionAdapter(): not started
+adb I 07-14 02:07:08  7883  8407 transport.cpp:279] BlockingConnectionAdapter(): destructing
+adb I 07-14 02:07:08  7883  8407 transport.cpp:383] BlockingConnectionAdapter(): not started
+adb server killed by remote request
+adb I 07-14 02:07:15  7883  7883 transport.cpp:1106] kicking transport 0xf4642430 192.168.3.252:8101
+adb I 07-14 02:07:15  7883  7883 transport.cpp:396] BlockingConnectionAdapter(192.168.3.252:8101): stopping
+adb I 07-14 02:07:15  7883  7893 transport.cpp:325] 192.168.3.252:8101: read failed: Success
+adb I 07-14 02:07:15  7883  7893 transport.cpp:810] 192.168.3.252:8101: connection terminated: read failed
+adb I 07-14 02:07:15  7883  7883 transport.cpp:414] BlockingConnectionAdapter(192.168.3.252:8101): stopped
+--- adb starting (pid 8806) ---
+adb I 07-14 02:08:20  8806  8806 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-14 02:08:20  8806  8806 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-14 02:08:20  8806  8806 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-14 02:08:20  8806  8806 main.cpp:62] 
+adb I 07-14 02:08:20  8806  8806 auth.cpp:415] adb_auth_init...
+adb I 07-14 02:08:20  8806  8806 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-14 02:08:20  8806  8806 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-14 02:09:12  8806  8954 transport.cpp:321] 192.168.3.252:8101: read thread spawning
+adb I 07-14 02:09:12  8806  8955 transport.cpp:293] 192.168.3.252:8101: write thread spawning
+adb I 07-14 02:09:12  8806  8806 transport.cpp:1518] fetching keys for transport 192.168.3.252:8101
+adb I 07-14 02:09:12  8806  8806 auth.cpp:467] Calling send_auth_response
+adb I 07-14 02:09:12  8806  8806 auth.cpp:434] Calling send_auth_publickey
+adb I 07-14 02:09:28  8806  8806 transport.cpp:1106] kicking transport 0xf5642540 192.168.3.252:8101
+adb I 07-14 02:09:28  8806  8806 transport.cpp:396] BlockingConnectionAdapter(192.168.3.252:8101): stopping
+adb I 07-14 02:09:28  8806  8954 transport.cpp:325] 192.168.3.252:8101: read failed: Success
+adb I 07-14 02:09:28  8806  8954 transport.cpp:810] 192.168.3.252:8101: connection terminated: read failed
+adb I 07-14 02:09:28  8806  8806 transport.cpp:414] BlockingConnectionAdapter(192.168.3.252:8101): stopped
+adb I 07-14 02:09:28  8806  8806 adb.cpp:122] 192.168.3.252:8101: offline
+adb I 07-14 02:09:28  8806  8806 transport.cpp:914] destroying transport 192.168.3.252:8101
+adb I 07-14 02:09:28  8806  8806 transport.cpp:388] BlockingConnectionAdapter(192.168.3.252:8101): already stopped
+adb I 07-14 02:09:28  8806  8806 transport.cpp:279] BlockingConnectionAdapter(192.168.3.252:8101): destructing
+adb I 07-14 02:09:28  8806  8806 transport.cpp:388] BlockingConnectionAdapter(192.168.3.252:8101): already stopped
+adb I 07-14 02:09:30  8806  8982 transport.cpp:321] 192.168.3.252:8101: read thread spawning
+adb I 07-14 02:09:30  8806  8983 transport.cpp:293] 192.168.3.252:8101: write thread spawning
+adb I 07-14 02:09:30  8806  8806 transport.cpp:1518] fetching keys for transport 192.168.3.252:8101
+adb I 07-14 02:09:30  8806  8806 auth.cpp:467] Calling send_auth_response
+adb I 07-14 02:09:30  8806  8806 auth.cpp:434] Calling send_auth_publickey
+adb I 07-14 02:09:33  8806  8806 adb.cpp:122] 192.168.3.252:8101: offline
+adb I 07-14 02:09:36  8806  8991 transport.cpp:279] BlockingConnectionAdapter(): destructing
+adb I 07-14 02:09:36  8806  8991 transport.cpp:383] BlockingConnectionAdapter(): not started
+adb I 07-14 02:09:42  8806  8806 transport.cpp:1106] kicking transport 0xf5642540 192.168.3.252:8101
+adb I 07-14 02:09:42  8806  8806 transport.cpp:396] BlockingConnectionAdapter(192.168.3.252:8101): stopping
+adb I 07-14 02:09:42  8806  8982 transport.cpp:325] 192.168.3.252:8101: read failed: Success
+adb I 07-14 02:09:42  8806  8982 transport.cpp:810] 192.168.3.252:8101: connection terminated: read failed
+adb I 07-14 02:09:42  8806  8806 transport.cpp:414] BlockingConnectionAdapter(192.168.3.252:8101): stopped
+adb I 07-14 02:09:42  8806  8806 adb.cpp:122] 192.168.3.252:8101: offline
+adb I 07-14 02:09:42  8806  8806 transport.cpp:914] destroying transport 192.168.3.252:8101
+adb I 07-14 02:09:42  8806  8806 transport.cpp:388] BlockingConnectionAdapter(192.168.3.252:8101): already stopped
+adb I 07-14 02:09:42  8806  8806 transport.cpp:279] BlockingConnectionAdapter(192.168.3.252:8101): destructing
+adb I 07-14 02:09:42  8806  8806 transport.cpp:388] BlockingConnectionAdapter(192.168.3.252:8101): already stopped
+adb server killed by remote request
+--- adb starting (pid 11749) ---
+adb I 07-14 02:16:36 11749 11749 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-14 02:16:36 11749 11749 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-14 02:16:36 11749 11749 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-14 02:16:36 11749 11749 main.cpp:62] 
+adb I 07-14 02:16:36 11749 11749 auth.cpp:415] adb_auth_init...
+adb I 07-14 02:16:36 11749 11749 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-14 02:16:36 11749 11749 auth.cpp:390] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 6743) ---
+adb I 07-14 03:16:41  6743  6743 main.cpp:62] Android Debug Bridge version 1.0.41
+adb I 07-14 03:16:41  6743  6743 main.cpp:62] Version 29.0.6-A750CONU1BUG3
+adb I 07-14 03:16:41  6743  6743 main.cpp:62] Installed as /data/local/tmp/adb-ndk/bin/adb
+adb I 07-14 03:16:41  6743  6743 main.cpp:62] 
+adb I 07-14 03:16:41  6743  6743 auth.cpp:415] adb_auth_init...
+adb I 07-14 03:16:41  6743  6743 auth.cpp:151] Loaded fingerprint=[208E49497FC67853BA211C42AB854630DFE4A5E3CBEA8D02E9AFC59FCBB55CD2]
+adb I 07-14 03:16:41  6743  6743 auth.cpp:390] adb_auth_inotify_init...
+adb I 07-14 03:16:41  6743  6759 transport.cpp:321] localhost:5038: read thread spawning
+adb I 07-14 03:16:41  6743  6760 transport.cpp:293] localhost:5038: write thread spawning
+adb I 07-14 03:16:41  6743  6743 transport.cpp:1518] fetching keys for transport localhost:5038
+adb I 07-14 03:16:41  6743  6743 auth.cpp:467] Calling send_auth_response
+adb I 07-14 03:16:41  6743  6743 adb.cpp:122] localhost:5038: offline
+adb server killed by remote request
+adb I 07-14 03:22:55  6743  6743 transport.cpp:1106] kicking transport 0xf1a01770 localhost:5038
+adb I 07-14 03:22:55  6743  6743 transport.cpp:396] BlockingConnectionAdapter(localhost:5038): stopping
+adb I 07-14 03:22:55  6743  6759 transport.cpp:325] localhost:5038: read failed: Success
+adb I 07-14 03:22:55  6743  6759 transport.cpp:810] localhost:5038: connection terminated: read failed
+adb I 07-14 03:22:55  6743  6743 transport.cpp:414] BlockingConnectionAdapter(localhost:5038): stopped
