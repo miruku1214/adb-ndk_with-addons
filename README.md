@@ -1,8 +1,7 @@
 # Features
+- ADB binary by adb-ndk magisk module made by osm0sis & Surge1223.
 - Makes run adb-ndk on locally
 - Makes execute adb-ndk on prompt.
-
-- ADB binary by adb-ndk magisk module made by osm0sis & Surge1223.
 
 # Conditions
 - Root required.
